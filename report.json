@@ -1,0 +1,16 @@
+{
+  "cache_lifetime": 30,
+  "ccrfcs_honored": [
+    "ccrfc-001",
+    "ccrfc-003"
+  ],
+  "per_class_handling": {
+    "identifiers": "SO",
+    "medical_l3": "NT"
+  },
+  "precedence_constraints": [
+    "law"
+  ],
+  "protocol_version": "v1",
+  "report_checksum": "29cfcf4af7d449f484401dfb404562e1bfa7e463aac9d4b3137731a4f125f12a"
+}
